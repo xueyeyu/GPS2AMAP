@@ -7,3 +7,8 @@ GPS坐标（WGS）转换为高德地图坐标
 
 参考文件见 original_source_file 目录 
 original source file is in the folder of name of “original_source_file”
+
+# ps 
+目前网上没有算法传流 百度以及高德坐标转换成GPS（WGS）坐标
+
+联系方式：jackxueyeyuhu@foxmail.com
