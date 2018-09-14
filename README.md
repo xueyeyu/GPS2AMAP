@@ -5,5 +5,5 @@ GPS坐标（WGS）转换为高德地图坐标
 
 # 关于参考文件
 
-参考文件见 源文件 目录 
-original source file is in the folder of name of “源文件”
+参考文件见 original_source_file 目录 
+original source file is in the folder of name of “original_source_file”
